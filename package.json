@@ -1,0 +1,17 @@
+{
+  "name": "example-hashring",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the hashring module.",
+  "homepage": "http://npmawesome.com/posts/hashring",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-hashring"
+  },
+  "dependencies": {
+    "hashring": "^3.0.0"
+  }
+}
